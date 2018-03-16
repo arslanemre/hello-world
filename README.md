@@ -2,4 +2,4 @@
 from the beginning
 
 Hello guys!
-Emre is here. I would like start to learn github that how to use it.
+Emre is here. I would like start to learn github.
